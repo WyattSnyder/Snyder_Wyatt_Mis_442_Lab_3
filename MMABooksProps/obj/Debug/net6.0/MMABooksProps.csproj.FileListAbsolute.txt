@@ -1,0 +1,17 @@
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\bin\Debug\net6.0\mySqlSettings.json
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\bin\Debug\net6.0\mySqlSettingsExample.json
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\bin\Debug\net6.0\MMABooksProps.deps.json
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\bin\Debug\net6.0\MMABooksProps.dll
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\bin\Debug\net6.0\MMABooksProps.pdb
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\bin\Debug\net6.0\MMABooksTools.dll
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\bin\Debug\net6.0\MMABooksTools.pdb
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\obj\Debug\net6.0\MMABooksProps.csproj.AssemblyReference.cache
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\obj\Debug\net6.0\MMABooksProps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\obj\Debug\net6.0\MMABooksProps.AssemblyInfoInputs.cache
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\obj\Debug\net6.0\MMABooksProps.AssemblyInfo.cs
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\obj\Debug\net6.0\MMABooksProps.csproj.CoreCompileInputs.cache
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\obj\Debug\net6.0\MMABooks.465CCEC4.Up2Date
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\obj\Debug\net6.0\MMABooksProps.dll
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\obj\Debug\net6.0\refint\MMABooksProps.dll
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\obj\Debug\net6.0\MMABooksProps.pdb
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksProps\obj\Debug\net6.0\ref\MMABooksProps.dll
