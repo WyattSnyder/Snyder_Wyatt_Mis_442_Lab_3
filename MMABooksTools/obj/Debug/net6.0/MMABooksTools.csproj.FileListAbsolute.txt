@@ -1,0 +1,14 @@
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksTools\bin\Debug\net6.0\mySqlSettings.json
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksTools\bin\Debug\net6.0\mySqlSettingsExample.json
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksTools\bin\Debug\net6.0\MMABooksTools.deps.json
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksTools\bin\Debug\net6.0\MMABooksTools.dll
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksTools\bin\Debug\net6.0\MMABooksTools.pdb
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksTools\obj\Debug\net6.0\MMABooksTools.csproj.AssemblyReference.cache
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksTools\obj\Debug\net6.0\MMABooksTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksTools\obj\Debug\net6.0\MMABooksTools.AssemblyInfoInputs.cache
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksTools\obj\Debug\net6.0\MMABooksTools.AssemblyInfo.cs
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksTools\obj\Debug\net6.0\MMABooksTools.csproj.CoreCompileInputs.cache
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksTools\obj\Debug\net6.0\MMABooksTools.dll
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksTools\obj\Debug\net6.0\refint\MMABooksTools.dll
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksTools\obj\Debug\net6.0\MMABooksTools.pdb
+C:\Users\Wyatt\source\repos\Lab3\framework_lab3_2023_Starterfiles\MMABooksFramework2022\MMABooksTools\obj\Debug\net6.0\ref\MMABooksTools.dll
